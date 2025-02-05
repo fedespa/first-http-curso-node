@@ -1,0 +1,2 @@
+Modelo MVC, para trabajar con Express.
+Tenemos modelos, vistas y controladores. Esto lo mezclo con clean arquitecture
